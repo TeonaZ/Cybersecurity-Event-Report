@@ -1,0 +1,14 @@
+What type of attack was this?
+John Podesta receives a phishing email. It contains a link to a page where Podesta can change his password. Podesta follows the instructions and types a new password, allowing hackers to access his emails.
+
+
+How was the vulnerability discovered?
+ The FBI contacts the Democratic National Committee’s help desk, cautioning the IT department that at least one computer has been compromised by Russian hackers. 
+
+
+How were the attackers able to exploit the vulnerability?
+They made mistake, because they clicked link and changed password, thats what helped attackers.
+
+
+Were there security measures that could have been taken in order to prevent this attack?
+Yes, because they receives a phishing email masked as an alert from Google that another user had tried to access his account and they did not pay attantion. Also they had to reported to Cybersecurity team.
